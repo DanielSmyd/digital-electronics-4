@@ -17,6 +17,8 @@ begin
 end architecture dataflow;
 ```
 
+
+Hi, i am here
 3. Complete table with logic functions' values:
 
 | **c** | **b** |**a** | **f(c,b,a)_ORG** | **f(c,b,a)_NAND** | **f(c,b,a)_NOR** |
