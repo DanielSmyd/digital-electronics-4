@@ -36,7 +36,7 @@ Hi, i am here
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/99491847/155214174-de8173c2-7712-408d-b262-743f4ba8ada1.png)
 
 2. Link to your public EDA Playground example:
 
