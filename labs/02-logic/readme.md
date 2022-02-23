@@ -107,7 +107,7 @@ When you start working, always synchronize the contents of your working folder a
 
 The K-map for the "equals" function is as follows:
 
-   ![Karnaugh map for "equals" function](images/kmap_equals.png)
+   https://github.com/tomas-fryza/digital-electronics-1/blob/master/labs/02-logic/images/kmap_equals.png
 
 1. Create K-maps for other two functions.
 
