@@ -1,4 +1,4 @@
-# Lab 2: YOUR_FIRSTNAME LASTNAME
+# Lab 2: Josef Macek
 
 ### 2-bit comparator
 
