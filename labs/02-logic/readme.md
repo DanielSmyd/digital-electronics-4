@@ -107,8 +107,7 @@ When you start working, always synchronize the contents of your working folder a
 
 The K-map for the "equals" function is as follows:
 
-   https://github.com/tomas-fryza/digital-electronics-1/blob/master/labs/02-logic/images/kmap_equals.png
-
+  https://github.com/tomas-fryza/digital-electronics-1/blob/master/labs/02-logic/images/kmap_equals.png?raw=true
 1. Create K-maps for other two functions.
 
    ![a](https://user-images.githubusercontent.com/99491847/155346439-4b4cb67b-1aca-4069-aae0-8b2394b0bbed.png)
