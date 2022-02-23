@@ -51,7 +51,7 @@ The purpose of this laboratory exercise is to learn to use different ways of wri
    |  6 | 0 1 | 1 0 | 0 | 0 | 0 |
    |  7 | 0 1 | 1 1 | 0 | 0 | 1 |
    |  8 | 1 0 | 0 0 | 1 | 0 | 0 |
-   |  9 | 1 0 | 0 1 | 0 | 0 | 0 |
+   |  9 | 1 0 | 0 1 | 1 | 0 | 0 |
    | 10 | 1 0 | 1 0 | 0 | 1 | 0 |
    | 11 | 1 0 | 1 1 | 0 | 0 | 1 |
    | 12 | 1 1 | 0 0 | 1 | 0 | 0 |
