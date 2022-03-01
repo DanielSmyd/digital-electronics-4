@@ -110,8 +110,8 @@ The K-map for the "equals" function is as follows:
   https://github.com/tomas-fryza/digital-electronics-1/blob/master/labs/02-logic/images/kmap_equals.png?raw=true
 1. Create K-maps for other two functions.
 
-   ![a](https://user-images.githubusercontent.com/99491847/155346439-4b4cb67b-1aca-4069-aae0-8b2394b0bbed.png)
-  ![b](https://user-images.githubusercontent.com/99491847/155346455-8f1262b4-79b3-4204-95cb-59683aa3510f.png)
+ ![image](https://user-images.githubusercontent.com/99491847/156238013-733ae249-169a-4105-866b-837bffd3c1fe.png)
+![image](https://user-images.githubusercontent.com/99491847/156238027-977fd492-0603-4e11-af5c-7733bb1e06f8.png)
 
   
 
