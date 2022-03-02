@@ -36,6 +36,7 @@ The purpose of this laboratory exercise is to learn to use Vivado to create a si
 The Nexys A7 board provides sixteen switches and LEDs. The switches can be used to provide inputs, and the LEDs can be used as output devices.
 
 1. See [schematic](https://github.com/tomas-fryza/digital-electronics-1/blob/master/docs/nexys-a7-sch.pdf) or [reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual) of the Nexys A7 board and find out the connection of slide switches and LEDs, ie to which FPGA pins are connected and how. Draw the schematic with LEDs and switches.
+
 | **LED number** | **FPGA pin** |
 | :-: | :-: |
 | LD0 | H17 |
