@@ -36,6 +36,44 @@ The purpose of this laboratory exercise is to learn to use Vivado to create a si
 The Nexys A7 board provides sixteen switches and LEDs. The switches can be used to provide inputs, and the LEDs can be used as output devices.
 
 1. See [schematic](https://github.com/tomas-fryza/digital-electronics-1/blob/master/docs/nexys-a7-sch.pdf) or [reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual) of the Nexys A7 board and find out the connection of slide switches and LEDs, ie to which FPGA pins are connected and how. Draw the schematic with LEDs and switches.
+| **LED number** | **FPGA pin** |
+| :-: | :-: |
+| LD0 | H17 |
+| LD1 | K15 |
+| LD2 | J13 |
+| LD3 | N14 |
+| LD4 | R18 |
+| LD5 | V17 |
+| LD6 | U17 |
+| LD7 | U16 |
+| LD8 | V16 |
+| LD9 | T15 |
+| LD10 | U14 |
+| LD11 | T16 |
+| LD12 | V15 |
+| LD13 | V14 |
+| LD14 | V12 |
+| LD15 | V11 |
+
+| **LED number** | **FPGA pin** |
+| :-: | :-: |
+| SW0 | J15 |
+| SW1 | L16 |
+| SW2 | M13 |
+| SW3 | R15 |
+| SW4 | R17 |
+| SW5 | T18 |
+| SW6 | U18 |
+| SW7 | R13 |
+| SW8 | T8 |
+| SW9 | U8 |
+| SW10 | R16 |
+| SW11 | T13 |
+| SW12 | H6 |
+| SW13 | U12 |
+| SW14 | U11 |
+| SW15 | V10 |
+
 
 2. **Optional task:** Follow the instructions for [Windows or Linux](https://github.com/tomas-fryza/digital-electronics-1/wiki/List-of-versions), download and install Vivado Design Suite. *Note: The online EDA Playground tool can still be used to simulate designs without implementation in the target hardware.*
 
