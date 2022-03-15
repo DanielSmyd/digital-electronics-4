@@ -34,7 +34,7 @@ In this laboratory exercise, you will study the differences between a statically
 
 1. Write characteristic equations and complete truth tables for D, JK, T flip-flops where `q(n)` represents main output value before the clock edge and `q(n+1)` represents output value after the clock edge.
 
-  <a name="preparation"></a>
+ <a name="preparation"></a>
 
 ## Preparation tasks (done before the lab at home)
 
@@ -77,7 +77,7 @@ In this laboratory exercise, you will study the differences between a statically
    | ![rising](images/eq_uparrow.png) | 0 | 1 | 1 | No change |
    | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | Invert(toggle) | 
    | ![rising](images/eq_uparrow.png) | 1 | 1 | 0 | Invert(toggle) |
-
+   
 <a name="part1"></a>
 
 ## Part 1: Synchronize repositories and create a new folder
