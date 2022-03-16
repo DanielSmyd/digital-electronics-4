@@ -108,11 +108,11 @@ A latch has two stable states (high and low) and it works like a storage device 
 
 A D-type latch has two outputs Q and /Q and two inputs: data input D and enable. It consistes of Gated S-R latch but because the inputs are complements of each other, it eliminates the combinations of S & R are of same value.
 
-![D-type Latch](images/d-latch_schema.png)
+![image](https://user-images.githubusercontent.com/99491847/158607140-e4be0cab-80d6-40d9-89a4-cb158388b7fc.png)
 
 As the output is same as the input D, D latch is also called as **Transparent latch**.
 
-![D-type Latch timing](images/d-latch_timing.png)
+![image](https://user-images.githubusercontent.com/99491847/158607169-40f72397-b7f3-4dbf-9144-b5e2ed7f973c.png)
 <!--
 https://wavedrom.com/
 {signal: [
