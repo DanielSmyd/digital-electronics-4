@@ -74,10 +74,10 @@ In this laboratory exercise, you will study the differences between a statically
    **T-type FF**
    | **clk** | **t** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
-   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | Output did not change |
-   | ![rising](images/eq_uparrow.png) | 0 | 1 | 1 | No change |
-   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | Invert(toggle) | 
-   | ![rising](images/eq_uparrow.png) | 1 | 1 | 0 | Invert(toggle) |
+   | | 0 | 0 | 0 | Output did not change |
+   | | 0 | 1 | 1 | No change |
+   | | 1 | 0 | 1 | Invert(toggle) | 
+   | | 1 | 1 | 0 | Invert(toggle) |
    
 <a name="part1"></a>
 
