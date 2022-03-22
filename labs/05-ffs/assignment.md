@@ -26,8 +26,8 @@ begin
     q <= s_q;
     q_bar <= not s_q;
     
-end architecture Behavi
-
+end architecture Behavioral;
+```
 2. Screenshot with simulated time waveforms. Try to simulate both flip-flops in a single testbench with a maximum duration of 200 ns, including reset. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
    ![your figure]()
