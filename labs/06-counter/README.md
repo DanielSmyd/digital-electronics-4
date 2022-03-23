@@ -82,7 +82,7 @@ The Nexys A7 board provides five push buttons for user applications.
 
 To drive another logic in the design (with slower clock), it is better to generate a **clock enable signal** (see figure bellow) instead of creating another clock domain (using clock dividers) that would cause timing issues or clock domain crossing problems such as metastability, data loss, and data incoherency.
 
-![Clock enable](images/wavedrom_clock_enable.png)
+![image](https://user-images.githubusercontent.com/99491847/159718096-fce491aa-6bfb-4c44-ab62-4aaf35455e8d.png)
 
 > The figure above was created in [WaveDrom](https://wavedrom.com/) digital timing diagram online tool. The figure source code is as follows (ticks -2, -1, 10, 11 and 12 were manually adjusted afterwards):
 >
