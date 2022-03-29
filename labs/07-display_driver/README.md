@@ -40,7 +40,7 @@ Due to the physiological properties of human vision, it is necessary that the ti
 
 ![image](https://user-images.githubusercontent.com/99491847/160567840-2d4b7e0c-bcc7-443b-8d9f-a53e7a87b7ce.png)
 
-![image](https://user-images.githubusercontent.com/99491847/160567874-2f9c5649-f449-4c59-927f-a257f1921418.png)
+![image](https://user-images.githubusercontent.com/99491847/160587637-28d05d0d-c7b3-4f8d-b9ea-2d4c2878610a.png)
 
   > The figure above was created in [WaveDrom](https://wavedrom.com/) digital timing diagram online tool. The figure source code is as follows:
   >
