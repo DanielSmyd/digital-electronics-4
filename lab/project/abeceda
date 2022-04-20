@@ -322,7 +322,155 @@ when X"3A" =>
 		morse_out <= '1';
 	morse_out <= '0';
   
-  
+-- N
+when X"31" => 
+                    while s_cnt < c_DELAY_2SEC loop 
+                        s_cnt <= s_cnt + 1;
+                        morse_out <= '1';
+                    end loop; 
+                    while s_cnt < c_DELAY_1SEC loop
+                        s_cnt <= s_cnt + 1;
+                        morse_out <= '0';
+                    end loop;
+                    while s_cnt < c_DELAY_1SEC loop
+                        s_cnt <= s_cnt + 1;
+                        morse_out <= '1';
+                    end loop;
+                    morse_out <= '0';  
+ 
+-- O
+ when X"44" =>
+                    while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop; 
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+                    while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+                    morse_out <= '0'; 
+-- P
+ when X"4D" =>
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop; 
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+                    while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+					end loop;
+                    morse_out <= '0'; 
+-- Q
+when X"15" =>
+                    while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop; 
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+                    while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+					end loop;
+                    morse_out <= '0'; 
+
+-- R
+when X"2D" =>
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop; 
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+                    while s_cnt < c_DELAY_2SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+                    morse_out <= '0'; 
+-- S
+when X"1B" =>
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop; 
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+                    while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '0';
+                    end loop;
+					while s_cnt < c_DELAY_1SEC loop
+                          s_cnt <= s_cnt + 1;
+                          morse_out <= '1';
+                    end loop;
+                    morse_out <= '0';
+
 -- T
 when X"2C" =>
 	while s_cnt < c_DELAY_2SEC loop
